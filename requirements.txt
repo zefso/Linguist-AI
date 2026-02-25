@@ -1,0 +1,4 @@
+customtkinter
+polib
+deep-translator
+langdetect
