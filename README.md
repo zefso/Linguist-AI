@@ -1,4 +1,4 @@
-# Linguist AI v1.2.0
+# Linguist AI v1.2.1
 
 Professional AI-powered tool for `.po` file translation.
 

@@ -1,7 +1,6 @@
 vevnv/
 __pycache__/
 *.bak
-*.exe
 dist/
 build/
 *.spec
